@@ -33,7 +33,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "megverse",
+      "identifier": "com.megnav.megverse",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
