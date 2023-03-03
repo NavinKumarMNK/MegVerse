@@ -12,7 +12,7 @@
   },
   "tauri": {
     "allowlist": {
-      "all": false,
+      "all": true,
       "shell": {
         "all": false,
         "open": true
@@ -49,6 +49,7 @@
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
         "timestampUrl": ""
+        
       }
     },
     "security": {
@@ -64,6 +65,7 @@
         "resizable": true,
         "title": "MegVerse",
         "width": 800
+        
       }
     ]
   }

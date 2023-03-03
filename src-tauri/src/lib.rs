@@ -2,6 +2,7 @@ use tauri::App;
 
 #[cfg(mobile)]
 mod mobile;
+mod scan;
 #[cfg(mobile)]
 pub use mobile::*;
 
